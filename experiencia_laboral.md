@@ -98,7 +98,7 @@ Uso de herramientas como Pandoc y archivos makefile (Linux) para automatizar y u
 
 ## Análisis de Sentimientos
 - Pysentimiento
-- 
+
 ## Propuestas de otras ideas
 - Detección de Discurso de Odio
 - Análisis de emociones
